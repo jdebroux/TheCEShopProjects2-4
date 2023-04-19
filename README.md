@@ -1,5 +1,7 @@
 # The CE Shop Interview Project 2-4
 
+### Each project from 2 to 4 is contained in a dedicated class and accompanied by its own test files.
+
 ### Additional Practical Interview Questions:
 1) How would you make an application testable, what do you do to ensure code quality?
    - To make an application testable, I would:
